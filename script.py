@@ -2,6 +2,6 @@ import hello_world
 
 
 abc = 22
-bcd = increment(abc)
-cde = decrement(bcd)
+bcd = hello_world.increment(abc)
+cde = hello_world.decrement(bcd)
 print(cde)
