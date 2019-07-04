@@ -5,6 +5,9 @@
 Simple repo for me to test integrations into devOps tools. 
 
 Travis ✔️
+
 Code Black ❌
+
 ReadTheDocs ❌
+
 CodeCov ❌
